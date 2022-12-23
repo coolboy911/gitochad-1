@@ -109,8 +109,8 @@ _You **can** combine them_
 3. Имея локальнй репозиторий пишем в консоль
     ```
     git remote add origin https://github.com/"link"
-    git branch -M main
-    git push -u origin main
+    git branch -M master
+    git push -u origin master
     ```
 налаживаем связь VSCode и гитхаба. Вводим пароль если надо. 
 
